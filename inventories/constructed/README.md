@@ -5,7 +5,7 @@ Original location was at:
 
 [https://github.com/AlanCoding/Ansible-inventory-file-examples/tree/master/issues/AWX371](https://github.com/AlanCoding/Ansible-inventory-file-examples/tree/master/issues/AWX371)
 
-Original related issue is: i want test 
+Original related issue is: i want test this 
 
 [https://github.com/ansible/awx/issues/371](https://github.com/ansible/awx/issues/371)
 
