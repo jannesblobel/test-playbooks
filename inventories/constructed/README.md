@@ -3,17 +3,18 @@
 This hosts the original demo problem for "constructed" inventory.
 Original location was at:
 
-https://github.com/AlanCoding/Ansible-inventory-file-examples/tree/master/issues/AWX371
+[https://github.com/AlanCoding/Ansible-inventory-file-examples/tree/master/issues/AWX371](https://github.com/AlanCoding/Ansible-inventory-file-examples/tree/master/issues/AWX371)
 
-Original related issue is:
+Original related issue is: i want test this 
 
-https://github.com/ansible/awx/issues/371
+[https://github.com/ansible/awx/issues/371](https://github.com/ansible/awx/issues/371)
 
 The key contents are the `east.ini` and `west.ini` inventories in this folder,
 which are intended to be combined by a constructed inventory with the
 following parameters:
 
 #### Constructed inventory input (source_vars)
+
 
 ```yaml
 plugin: constructed
@@ -26,6 +27,7 @@ compose:
 ```
 
 #### Limit value
+
 
 ```
 shutdown_in_product_dev
